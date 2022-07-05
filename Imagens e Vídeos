@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Imagens e Vídeos</title>
+		<meta charset="UTF=8">
+	</head>
+	<body>
+		<h1> Escola SENAI "Luiz Massa" - Botucatu (SP)</h1>
+		<h2> Qualificação Profissional de Web Designer</h2>
+		<hr>
+		
+		<h3>IMAGENS E VÍDEOS</h3>
+		<p>
+			Em uma pagina HTML é possivel incorporar
+			arquivos de imagens e de vídeos. Abaixo veja
+			exemplos de páginas com esses tipos de 
+			arquivos. 
+			<br>
+			
+			<!--LINK PARA A PÁGINA DE IMAGENS -->
+			
+			<a target="_self" href="imagem.html" title="Página de Imagem">
+				Clique aqui para ir para a página de imagens.
+			</a>
+			<br>	
+			
+			<!--LINK PARA A PÁGINA DE VIDEOS -->
+			
+			<a target="_self" href="video.html" title="Página de Vídeo">
+				Clique aqui para ir para a página de vídeos.
+			</a>
+			<br>			
+		</p>
+		
+		<p>
+			Desenvolvido por Samanta Cristina 
+			em 05/07/2022 ás 13:20 horas
+		</p>
+	</body>
+
+
+</html>
