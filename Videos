@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vídeos</title>
+		<meta charset="UTF=8">
+	</head>
+	<body>
+		<h1> Escola SENAI "Luiz Massa" - Botucatu (SP)</h1>
+		<h2> Qualificação Profissional de Web Designer</h2>
+		<hr>
+		
+		<h3>VÍDEOS</h3>
+		<p>
+			<!--LINK PARA A PÁGINA DE INDEX -->
+			
+			<a target="_self" href="index.html" title="Página Inicial">
+				Clique aqui para ir para voltar para a página inicial.
+			</a>
+			<br>	
+			<br>
+			
+			<!--video -->
+			<video width="320" height="240" controls>
+				<source src="videos/filme.mp4" type="video/mp4"> 
+			</video>
+			
+			</a>
+			<br>	
+		
+		</p>
+		<p>
+			Desenvolvido por Samanta Cristina 
+			em 05/07/2022 ás 13:20 horas
+		</p>
+	</body>
+
+
+</html>
